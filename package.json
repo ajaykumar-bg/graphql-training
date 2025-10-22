@@ -1,0 +1,23 @@
+{
+  "name": "graphql-training",
+  "version": "1.0.0",
+  "description": "Learning Graph QL with Express JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graph",
+    "ql",
+    "express",
+    "js"
+  ],
+  "author": "Ajay Kumar BG",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.11.0",
+    "lodash": "^4.17.21"
+  }
+}
