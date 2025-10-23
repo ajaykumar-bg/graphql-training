@@ -7,17 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "graph",
-    "ql",
-    "express",
-    "js"
+    "graphql",
+    "expressjs"
   ],
   "author": "Ajay Kumar BG",
   "license": "ISC",
   "dependencies": {
     "express": "^5.1.0",
-    "express-graphql": "^0.12.0",
     "graphql": "^16.11.0",
+    "express-graphql": "^0.12.0",
     "lodash": "^4.17.21"
   }
 }
